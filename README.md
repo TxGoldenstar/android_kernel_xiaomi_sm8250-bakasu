@@ -13,7 +13,8 @@ PixelOS 17 (Android 17).
 - Root implementation: BakaSU
 - BakaSU version code: `35252`
 - BakaSU source commit: `d5e9e025`
-- SUSFS: `v2.3.0`, NON-GKI
+- SUSFS: v2.3.0 (NON-GKI)
+SUSFS Patch: JackA1ltman/NonGKI_Kernel_Build_2nd
 - Compiler: Android LLVM r596125, Clang 22.0.2
 
 The maintainer verified that the test device boots, root works, and
